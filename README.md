@@ -5,9 +5,9 @@ I’m a web developer with a background in nonprofit database administration. I�
 After pivoting from ten years in the nonprofit sector, I have a strong foundation in analyzing problems, maintaining complex systems and facilitating cross-team collaboration.
 
 📫 How to reach me: 
-- [Email]
-- [Portfolio Website]
-- [LinkedIn](www.linkedin.com/in/angela-francisco)
+- Email: [angelat.francisco@gmail.com](angelat.francisco@gmail.com)
+- LinkedIn: [@angela-francisco](www.linkedin.com/in/angela-francisco)
+- [Portfolio](https://www.angelafrancisco.com)
 <!--
 **angelafrancisco/angelafrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
