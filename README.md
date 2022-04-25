@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a web developer with a background in nonprofit database administration. I’m passionate about the details and building scaleable, responsive, and accessible applications. Some of my favorite technologies to work with recently are React, Node, and Python. 
+I’m a web developer with a background in nonprofit database administration. I’m passionate about the details and building scaleable, responsive, and accessible applications. Some of my favorite technologies to work with recently are React, Node, and Express. 
 
 After pivoting from ten years in the nonprofit sector, I have a strong foundation in analyzing problems, maintaining complex systems and facilitating cross-team collaboration.
 
