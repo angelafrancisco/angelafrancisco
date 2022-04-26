@@ -7,7 +7,7 @@ After pivoting from ten years in the nonprofit sector, I have a strong foundatio
 📫 How to reach me: 
 - Email: [angelat.francisco@gmail.com](mailto:angelat.francisco@gmail.com)
 - LinkedIn: [@angela-francisco](https://www.linkedin.com/in/angela-francisco/)
-- Portfolio: [angelafrancisco.com](http://angelafrancisco.com/index.html)
+- Portfolio: [angelafrancisco.com](https://angelafrancisco.com/index.html)
 <!--
 **angelafrancisco/angelafrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
