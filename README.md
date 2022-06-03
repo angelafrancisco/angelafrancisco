@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hello! I'm Angela 👋
 
-I’m a Software Engineer with a background in relational database administration. I’m passionate about the details and building scaleable, responsive, and accessible applications. Some of my favorite technologies to work with recently are React, Node, Express and SCSS. 
+I’m a software engineer with a background in relational database administration. I’m passionate about the details and building scaleable, responsive, and accessible applications. Some of my favorite technologies to work with recently are React, Node, Express and SCSS. 
 
 After pivoting from ten years in the nonprofit sector, I have a strong foundation in analyzing problems, maintaining complex systems and facilitating cross-team collaboration.
 
 📫 How to reach me: 
-- Email: [angelat.francisco@gmail.com](mailto:angelat.francisco@gmail.com)
 - LinkedIn: [@angela-francisco](https://www.linkedin.com/in/angela-francisco/)
-- Portfolio: [angelafrancisco.com](https://angelafrancisco.com/index.html)
+- Email: [angelat.francisco@gmail.com](mailto:angelat.francisco@gmail.com)
+- Portfolio Website: [angelafrancisco.com](https://angelafrancisco.com/index.html)
 
 <!--
 **angelafrancisco/angelafrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
