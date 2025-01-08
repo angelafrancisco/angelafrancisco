@@ -1,12 +1,8 @@
-### Hello! I'm Angela 👋
+### Hi, I'm Angela! 👋
 
-I'm a software engineer by day, cozy bookworm by night. I started coding as a kid, learning html and css to customize my *~ vErY cOoL ~* MySpace page.
+I'm a full-stack software engineer with a background in relational databases. I strive to use my knowledge for social good and hold community at the center of my work.  
 
-My focus is in frontend, primarily in React and TypeScript. I love building interfaces at the intersection of beautiful design and accessibility for all.
-
-After working over a decade in the nonprofit sector, specializing in database administration, I took a creative leap to pursue a career in web development. I bring a passion for growing my knowledge in new technologies and patience in finding the missing pieces in a puzzle.
-
-Offline, you'll find me reading fantasy books, exploring my neighborhood by bike, or snuggling with my chiweenie pup Luya.
+Offline, you'll find me reading fantasy books, exploring my neighborhood by bike, or snuggling with my chiweenie dog.
 
 📫 How to reach me: 
 - LinkedIn: [@angela-francisco](https://www.linkedin.com/in/angela-francisco/)
